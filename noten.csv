@@ -1,0 +1,30 @@
+Modul;Note;Gewichtung;Semester;Credits;Bestanden
+Programmieren 1;1;0,5;1;5;j
+Betriebswirtschaftslehre 1;1,3;0,5;1;5;j
+Kommunikationsnetze und -protokolle;1;0,5;1;5;j
+Recht;2,7;0,5;2;5;j
+Programmierung 2 ;1,3;0,5;2;5;j
+Betriebswirtschaftslehre 2;1,3;0,5;2;5;j
+Mathematische Grundlagen der Informatik ;3;0,5;1;5;j
+Grundlagen der Wirtschaftsinformatik ;2;0,5;1;5;j
+Optimierung für Wirtschaftsinformatiker ;2,3;1;3;5;j
+Methoden des Software Engineering ;1,3;1;3;5;j
+Mathematik für Wirtschaftsinformatiker ;1,7;1;2;5;j
+Management und Marketing ;1,7;1;4;5;j
+Datenbanken ;1,7;1;4;5;j
+Rechnerarchitektur und verteilte Systeme ;3,3;0,5;1;5;j
+Vorgehensmodelle des Software Engineering ;1;0,5;2;5;j
+Algorithmen und Datenstrukturen ;1;0,5;2;5;j
+Betriebssysteme ;2;1;3;5;j
+Präsentation und Kommunikation ;1,3;1;3;5;j
+Projektmanagement ;1;1;3;5;j
+Data-Warehousing ;2,3;1;4;5;j
+Einführung in die ABAP-Programmierung ;2;1;4;5;j
+Wahlpflicht 2;4;1;4;5;n
+Wahlpflicht 3;4;1;5;5;n
+ERP;4;1;4;5;n
+Logistik;4;1;3;5;n
+Controlling;4;1;5;5;n
+IT-Sicherheit;4;1;5;5;n
+Data-Mining;4;1;5;5;n
+Bachelorthesis;4;2;6;12;n
