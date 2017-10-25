@@ -74,7 +74,6 @@ def faecherAusgebenNachNoten(faecher):
 
 faecher = faecherEinlesen()
 #faecherAusgeben(faecher)
-faecherAusgebenNachNoten(faecher)
 print("Aktuelle Credits: ", berechneCredits(faecher), " von 180" )
 print("Aktueller Notendurchschnitt: ", gewichteterNotendurchschnitt(faecher))
 print("Notendurchschnitt falls nicht bestandene Module mit 4.0 abgeschlossen werden: ", gewichteterNotendurchschnittWorstCase(faecher))
@@ -82,3 +81,4 @@ print("Notendurchschnitt 1 Semester: ", notendurchschnittSemester(faecher, 1))
 print("Notendurchschnitt 2 Semester: ", notendurchschnittSemester(faecher, 2))
 print("Notendurchschnitt 3 Semester: ", notendurchschnittSemester(faecher, 3))
 print("Notendurchschnitt 4 Semester: ", notendurchschnittSemester(faecher, 4))
+faecherAusgebenNachNoten(faecher)
